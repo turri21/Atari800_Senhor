@@ -1,3 +1,8 @@
+-=(Atari800_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+___
+
 # Atari [5200](https://en.wikipedia.org/wiki/Atari_5200) and [Atari 800/800XL/65XE/130XE](https://en.wikipedia.org/wiki/Atari_8-bit_family) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ### This is the port of [Atari 800XL core by Mark Watson](http://www.64kib.com/redmine/projects/eclairexl)
